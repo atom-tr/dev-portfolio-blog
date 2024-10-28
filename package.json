@@ -17,7 +17,7 @@
     "hotkeypad": "0.1.0",
     "prettier-plugin-tailwindcss": "^0.6.5",
     "tailwindcss": "^3.4.4",
-    "typescript": "5.3.3"
+    "typescript": "5.6.3"
   },
   "devDependencies": {
     "prettier": "^3.3.2",
